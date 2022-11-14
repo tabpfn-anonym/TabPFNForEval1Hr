@@ -1,0 +1,3 @@
+DEFAULT_SEED = 42
+
+N_PASSES = 7
